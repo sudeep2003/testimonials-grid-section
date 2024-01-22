@@ -20,7 +20,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Overview
 
-For the Frontend Mentor Testimonials grid section challenge, I created a Testimonials grid section solution that allows users to track costomer review for various purposes. The goal of this project was to practice grid, building responsive and visually appealing components using HTML and CSS. I aimed to create a clean and user-friendly interface for preview Blog preview card.
+For the Frontend Mentor Testimonials grid section challenge, I created a Testimonials grid section solution that allows users to track costomer review for various purposes. The goal of this project was to practice grid, building responsive and visually appealing components using HTML and CSS. I aimed to create a clean and user-friendly interface for testimonial section.
 
 ### Screenshot
 
@@ -31,8 +31,8 @@ For the Frontend Mentor Testimonials grid section challenge, I created a Testimo
 
 ### Links
 
-- Solution URL: [https://github.com/sudeep2003/results-summary-component.git](https://github.com/sudeep2003/results-summary-component.git)
-- Live Site URL: [https://sudeep2003.github.io/results-summary-component](https://sudeep2003.github.io/results-summary-component)
+- Solution URL: [https://github.com/sudeep2003/testimonials-grid-section.git](https://github.com/sudeep2003/testimonials-grid-section.git)
+- Live Site URL: [https://sudeep2003.github.io/testimonials-grid-section](https://sudeep2003.github.io/testimonials-grid-section/)
 
 ### Built with
 
